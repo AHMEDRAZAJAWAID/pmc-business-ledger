@@ -1,0 +1,10 @@
+﻿node_modules/
+client/node_modules/
+client/build/
+dist/
+*.db
+*.db-journal
+*.sqlite
+PMC-Business-Data/
+.env
+.DS_Store
